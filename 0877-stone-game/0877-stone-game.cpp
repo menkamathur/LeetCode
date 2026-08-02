@@ -3,7 +3,7 @@ public:
     bool stoneGame(vector<int>& piles) {
         int N = piles.size();
 
-        // dp[i+1][j+1] = the value of the game [piles[i], ..., piles[j]]
+     
         int dp[N+2][N+2];
         memset(dp, 0, sizeof(dp));
 
