@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/menkamathur/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/menkamathur/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/menkamathur/LeetCode/tree/master/0912-sort-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/menkamathur/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/menkamathur/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/menkamathur/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/menkamathur/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/menkamathur/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/menkamathur/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/menkamathur/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/menkamathur/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/menkamathur/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/menkamathur/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
