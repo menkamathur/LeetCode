@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/menkamathur/LeetCode/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/menkamathur/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/menkamathur/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/menkamathur/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/menkamathur/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/menkamathur/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/menkamathur/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/menkamathur/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/menkamathur/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
