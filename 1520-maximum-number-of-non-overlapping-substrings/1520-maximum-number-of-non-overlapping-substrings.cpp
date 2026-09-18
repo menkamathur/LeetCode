@@ -12,7 +12,7 @@ public:
 
     vector<string> maxNumOfSubstrings(string s) {
         vector<Seg> seg(26, (Seg){-1, -1});
-        // Preprocess the left and right endpoints.
+      
         for (int i = 0; i < s.length(); ++i) {
             int charIdx = s[i] - 'a';
             if (seg[charIdx].left == -1) {
@@ -35,7 +35,6 @@ public:
                 }
             }
         }
-        // Greedily select intervals.
         sort(seg.begin(), seg.end());
         vector<string> ans;
         int end = -1;
