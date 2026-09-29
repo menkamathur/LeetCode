@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/menkamathur/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/menkamathur/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0486-predict-the-winner](https://github.com/menkamathur/LeetCode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/menkamathur/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/menkamathur/LeetCode/tree/master/0877-stone-game) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/menkamathur/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/menkamathur/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/menkamathur/LeetCode/tree/master/0141-linked-list-cycle) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/menkamathur/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/menkamathur/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
