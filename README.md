@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/menkamathur/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/menkamathur/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/menkamathur/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/menkamathur/LeetCode/tree/master/0015-3sum) |
 | [0912-sort-an-array](https://github.com/menkamathur/LeetCode/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/menkamathur/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/menkamathur/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/menkamathur/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/menkamathur/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/menkamathur/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/menkamathur/LeetCode/tree/master/0141-linked-list-cycle) |
