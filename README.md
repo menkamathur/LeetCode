@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/menkamathur/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0079-word-search](https://github.com/menkamathur/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/menkamathur/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/menkamathur/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/menkamathur/LeetCode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/menkamathur/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/menkamathur/LeetCode/tree/master/0877-stone-game) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/menkamathur/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/menkamathur/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/menkamathur/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/menkamathur/LeetCode/tree/master/0836-rectangle-overlap) |
